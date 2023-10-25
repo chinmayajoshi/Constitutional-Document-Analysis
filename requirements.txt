@@ -1,4 +1,6 @@
-pandas 
+pandas
+PyPDF2
+pathlib
 langchain
 openai
 tiktoken
