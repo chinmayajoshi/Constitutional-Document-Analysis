@@ -2,6 +2,6 @@
 <ul>
 <li>Download Contitution</li>
 <li>Extract Articles</li>
-<li>(todo) Generate Embeddings</li>
+<li>Generate Article Embeddings</li>
 <li>(todo) TSNE Clustering</li>
 <ul>
