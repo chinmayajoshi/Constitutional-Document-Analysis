@@ -1,4 +1,8 @@
+numpy
 pandas
+scikit-learn
+matplotlib
+seaborn
 PyPDF2
 pathlib
 langchain
