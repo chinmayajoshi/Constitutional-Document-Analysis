@@ -1,4 +1,5 @@
 Indian Constutution/data/**
 Indian Constitution/__pycache__/
 Indian Constitution/actual_secret_key.py
-Indian Constutution/data/article_title_embeddings.csv
+Indian Constitution/data/article_title_embeddings.csv
+.Indian Constitution/data/article_title_embeddings.csv
