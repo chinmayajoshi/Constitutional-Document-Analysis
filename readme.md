@@ -3,5 +3,5 @@
 <li>Download Contitution</li>
 <li>Extract Articles</li>
 <li>Generate Article Embeddings</li>
-<li>(todo) TSNE Clustering</li>
+<li>TSNE Clustering</li>
 <ul>
