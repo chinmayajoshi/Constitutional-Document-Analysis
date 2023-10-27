@@ -6,4 +6,4 @@
 <li>TSNE Clustering</li>
 <ul>
 
-[image](https://github.com/chinmayajoshi/Constitutional-Document-Analysis/blob/main/Indian%20Constitution/title_parts_as_tsne_clusters.png)
+![image](https://github.com/chinmayajoshi/Constitutional-Document-Analysis/blob/main/Indian%20Constitution/title_parts_as_tsne_clusters.png)
